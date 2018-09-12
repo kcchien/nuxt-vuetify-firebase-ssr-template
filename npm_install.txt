@@ -1,0 +1,9 @@
+# Dependencies
+npm i @nuxtjs/axios @nuxtjs/browserconfig @nuxtjs/component-cache @nuxtjs/google-analytics @nuxtjs/pwa @nuxtjs/sitemap @nuxtjs/vuetify babel-runtime nuxt vuetify --save
+
+# Dev dependencies
+npm i babel-eslint babel-plugin-transform-runtime babel-preset-env babel-preset-stage-0 cpx eslint eslint-friendly-formatter eslint-loader eslint-plugin-vue node-sass pug rimraf sass-loader stylus stylus-loader --save-dev
+
+cd functions
+# Dependencies
+npm i babel-plugin-transform-runtime babel-preset-env babel-preset-stage-0 @nuxtjs/axios @nuxtjs/browserconfig @nuxtjs/component-cache @nuxtjs/google-analytics @nuxtjs/pwa @nuxtjs/sitemap babel-runtime es6-promise firebase-admin firebase-functions lodash nuxt vue vue-meta vue-router vuetify --save
